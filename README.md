@@ -4,7 +4,7 @@ Global trade and supply chain control tower dashboard prototype.
 
 **Repository:** [VanshPatyal/xeliport_demo](https://github.com/VanshPatyal/xeliport_demo)
 
-**Live demo:** Not deployed yet.
+**Live demo:** [Open Xeliport](https://vanshpatyal.github.io/xeliport_demo/)
 
 ## Run locally
 
